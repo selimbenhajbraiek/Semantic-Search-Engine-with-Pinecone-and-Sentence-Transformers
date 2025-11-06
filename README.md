@@ -43,3 +43,6 @@ By converting course information into vector embeddings, the system can retrieve
 ```bash
 git clone https://github.com/selimbenhajbraiek/Semantic-Search-Engine-with-Pinecone-and-Sentence-Transformers.git
 cd pinecone_course_embeddings
+
+Please ensure that you have .env file:
+PINECONE_API_KEY and PINECONE_ENV
